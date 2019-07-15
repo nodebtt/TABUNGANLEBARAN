@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007315094624",
+    "firebase_url": "https://tb15115610.firebaseio.com",
+    "project_id": "tb15115610",
+    "storage_bucket": "tb15115610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007315094624:android:744a931b8dded0ac",
+        "android_client_info": {
+          "package_name": "com.example.tabunganlebaran2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007315094624-6das4afaf6fa71e8a47a0s7plov5ijpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhx1Y5pkgRvrwrscVYU3S4dNI9afldpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007315094624-6das4afaf6fa71e8a47a0s7plov5ijpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
